@@ -2099,7 +2099,7 @@ input, select, textarea {
 			}
 
 		.image img {
-			border-radius: 0.35em;
+			border-radius: 0.5em;
 			display: block;
 		}
 
@@ -2142,8 +2142,8 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
-				width: 100%;
+				border-radius: 200%;
+				width: 140%;
 			}
 
 /* List */
@@ -2633,14 +2633,14 @@ input, select, textarea {
 
 		#header h1 {
 			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
+			font-size: 1.65em;
 			line-height: 1.75em;
 			margin: 0;
 		}
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 8.25em;
 		}
 
 /* Footer */
